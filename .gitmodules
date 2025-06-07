@@ -1,0 +1,3 @@
+[submodule "multiple_sequence_alignment"]
+	path = multiple_sequence_alignment
+	url = https://github.com/Karo555/multiple_sequence_alignment
